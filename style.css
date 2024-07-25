@@ -1,0 +1,28 @@
+
+
+.container{
+    background-color: rgb(142, 195, 195);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.myimg{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.template{
+    background-color: white;
+    border: 1px solid black;
+}
+
+.card-header{
+    background-color: rgba(75, 154, 234, 0.775);;
+}
+
+
+#re-template{
+    display: none;
+}
